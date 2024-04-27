@@ -1,0 +1,36 @@
+[
+    {
+        "category":"gamabaja",
+        "id":1,
+        "title":"Samsung Omnia M S7530",
+        "price":"$2.56",
+        "image":"http://dummyimage.com/116x100.png/cc0000/ffffff","desription":"Traumatic rupture of collateral ligament of r wrist, subs"},
+    {
+        "category":"gamamedia",
+        "id":2,
+        "title":"Samsung Galaxy Tab S 10.5",
+        "price":"$9.05",
+        "image":"http://dummyimage.com/193x100.png/dddddd/000000",
+        "desription":"Other disorders of continuity of bone, humerus"},
+    {
+        "category":"gamamedia",
+        "id":3,
+        "title":"BLU Dash C Music",
+        "price":"$8.30",
+        "image":"http://dummyimage.com/143x100.png/cc0000/ffffff","desription":"Displ commnt fx shaft of unsp tibia, 7thC"},
+    {
+        "category":"gamaalta",
+        "id":4,
+        "title":"Samsung Galaxy Camera GC100",
+        "price":"$8.98",
+        "image":"http://dummyimage.com/126x100.png/dddddd/000000",
+        "desription":"Other nonpowered-aircraft accidents injuring occupant"},
+    {
+        "category":"gamaalta",
+        "id":5,
+        "title":"Palm Pre Plus",
+        "price":"$3.79",
+        "image":"http://dummyimage.com/108x100.png/cc0000/ffffff",
+        "desription":"Traum hemor cereb, w loss of consciousness of 31-59 min"
+    }
+]
